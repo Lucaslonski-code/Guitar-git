@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Times New Roman', Times, serif;
 }
 
 body {
@@ -17,7 +16,7 @@ body {
     justify-content: center;
 }
 
-.caixa1 {
+#caixa1 {
     background-color: #ffffff65;
     width: 440px;
     height: 220px;
@@ -41,11 +40,11 @@ body {
     text-align: center;
 }
 
-.nome1 {
+h1 {
     text-align: center;
 }
 
-.caixa-maior {
+#caixa-maior {
    text-align: center;
 }
 
